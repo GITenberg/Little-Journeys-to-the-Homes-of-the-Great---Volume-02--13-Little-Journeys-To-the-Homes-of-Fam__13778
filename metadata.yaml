@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/228
     wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13778#Little-Journeys-to-the-Homes-of-the-Great---Volume-02--13-Little-Journeys-To-the-Homes-of-Fam_
 gutenberg_issued: '2004-10-18'
 gutenberg_type: Text
 identifiers:
