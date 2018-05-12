@@ -1,0 +1,41 @@
+_repo: Little-Journeys-to-the-Homes-of-the-Great---Volume-02--13-Little-Journeys-To-the-Homes-of-Fam__13778
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Hubbard, Bert
+    alias: Hubbard, Elbert
+    birthdate: 1882
+    gutenberg_agent_id: '39651'
+    url: http://www.gutenberg.org/2009/agents/39651
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Elbertus, Fra
+    - Ali Baba
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
+description: ''
+gutenberg_issued: '2004-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Biography'
+- !lcc 'CT'
+tableOfContents: Elizabeth B. Browning -- Madame Guyon -- Harriet Martineau -- Charlotte
+  Brontë -- Christina Rossetti -- Rosa Bonheur -- Madame de Staël -- Elizabeth Fry
+  -- Mary Lamb -- Jane Austen -- Empress Josephine -- Mary W. Shelley.
+title: "Little Journeys to the Homes of the Great - Volume 02\r\nLittle Journeys To\
+  \ the Homes of Famous Women"
+url: http://www.gutenberg.org/ebooks/13778
